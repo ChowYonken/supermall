@@ -1,0 +1,25 @@
+{
+  "name": "testvuecli3",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --open",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "better-scroll": "^2.4.2",
+    "fastclick": "^1.0.6",
+    "lazyload": "^2.0.0-rc.2",
+    "vue": "^2.5.17",
+    "vue-lazyload": "^1.3.3",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.2.0",
+    "@vue/cli-service": "^3.2.0",
+    "postcss-px-to-viewport": "^1.1.1",
+    "vue-template-compiler": "^2.5.17"
+  }
+}
